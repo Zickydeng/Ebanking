@@ -3,10 +3,17 @@
 
 A React website build using styled components and React smooth scroll. This website is fully responsive. Both the React Hooks and React Router used this project added more fucntionality to the general site logic. I also incorporate the use of material UI and other libraries. Site deployed on Firebase.
 
+## [DEMO](https://zicky-ebank.web.app/)
+---
+<p align="center">
+  <a href="https://zicky-ebank.web.app/" target="_blank">
+  </a>
+</p>
+
 ## :desktop_computer: Desktop layout
 
 <p align="center">
-    <img alt="Desktop layout" src="docs/full-layout.gif">
+    <img alt="Desktop layout" >
 </p>
 
 ## [DEMO](https://zicky-ebank.web.app/)
