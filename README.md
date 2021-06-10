@@ -13,7 +13,7 @@ A React website build using styled components and React smooth scroll. This webs
 ## :desktop_computer: Desktop layout
 
 <p align="center">
-    <img alt="Desktop layout" >
+    <img alt="Desktop layout" src="full-layout.gif>
 </p>
 
 ## [DEMO](https://zicky-ebank.web.app/)
