@@ -1,7 +1,7 @@
 ## Z-Ebank
 ---
 
-A React website build using styled components and React smooth scroll. This website is fully responsive. Both the React Hooks and React Router used this project added more fucntionality to the general site logic. I also incorporate the use of material UI and other libraries. Site deployed on Firebase.
+A React website build using styled components and React smooth scroll. This website is fully responsive. Both React Hooks and React Router used in this project added more fucntionalities to the website features. I also incorporate the use of material UI and other libraries. Site was deployed on Firebase.
 
 ## [DEMO](https://zicky-ebank.web.app/)
 ---
